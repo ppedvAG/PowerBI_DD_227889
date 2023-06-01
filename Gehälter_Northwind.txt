@@ -1,0 +1,21 @@
+USE Northwind
+GO
+
+ALTER TABLE Employees
+ADD Gehalt int
+GO
+
+UPDATE Employees
+SET Gehalt = 
+CASE
+	WHEN EmployeeID = 1 THEN 70000
+	WHEN EmployeeID = 2 THEN 55000
+	WHEN EmployeeID = 3 THEN 59000
+	WHEN EmployeeID = 4 THEN 87000
+	WHEN EmployeeID = 5 THEN 49000
+	WHEN EmployeeID = 6 THEN 40000
+	WHEN EmployeeID = 7 THEN 60000
+	WHEN EmployeeID = 8 THEN 62000
+	WHEN EmployeeID = 9 THEN 63000
+END
+GO
