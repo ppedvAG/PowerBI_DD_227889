@@ -1,0 +1,18 @@
+Einige Links zu Seiten mit öffentlich zugänglichen Datasets zu den verschiedensten Themen.
+Für Übungen (und auch aus Interesse) super geeignet ;-)
+
+
+Community Seite für Analysts & BI Experts; viele Ressourcen und Datasets rund ums Thema BI 
+https://www.kaggle.com/
+
+
+Datenbank des Statistischen Bundesamts DE
+https://www-genesis.destatis.de/genesis/online
+
+
+USA öffentliche Datasets 
+https://data.gov/
+
+
+Github Dataset Community Project
+https://github.com/awesomedata/awesome-public-datasets
